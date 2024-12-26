@@ -1,0 +1,14 @@
+C:\Users\master\source\repos\ConsoleApp1\ConsoleApp1\bin\Release\ConsoleApp1.exe.config
+C:\Users\master\source\repos\ConsoleApp1\ConsoleApp1\bin\Release\ConsoleApp1.exe
+C:\Users\master\source\repos\ConsoleApp1\ConsoleApp1\bin\Release\ConsoleApp1.pdb
+C:\Users\master\source\repos\ConsoleApp1\ConsoleApp1\obj\Release\ConsoleApp1.csproj.AssemblyReference.cache
+C:\Users\master\source\repos\ConsoleApp1\ConsoleApp1\obj\Release\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\Users\master\source\repos\ConsoleApp1\ConsoleApp1\obj\Release\ConsoleApp1.exe
+C:\Users\master\source\repos\ConsoleApp1\ConsoleApp1\obj\Release\ConsoleApp1.pdb
+G:\repogitory\hm_jsmode_rock_or_sharedmemory_err_bug\src\bin\Release\ConsoleApp1.exe.config
+G:\repogitory\hm_jsmode_rock_or_sharedmemory_err_bug\src\bin\Release\ConsoleApp1.exe
+G:\repogitory\hm_jsmode_rock_or_sharedmemory_err_bug\src\bin\Release\ConsoleApp1.pdb
+G:\repogitory\hm_jsmode_rock_or_sharedmemory_err_bug\src\obj\Release\ConsoleApp1.csproj.AssemblyReference.cache
+G:\repogitory\hm_jsmode_rock_or_sharedmemory_err_bug\src\obj\Release\ConsoleApp1.csproj.CoreCompileInputs.cache
+G:\repogitory\hm_jsmode_rock_or_sharedmemory_err_bug\src\obj\Release\ConsoleApp1.exe
+G:\repogitory\hm_jsmode_rock_or_sharedmemory_err_bug\src\obj\Release\ConsoleApp1.pdb

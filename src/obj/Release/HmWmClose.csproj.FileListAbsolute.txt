@@ -1,0 +1,5 @@
+G:\repogitory\hm_jsmode_rock_or_sharedmemory_err_bug\src\bin\Release\HmWmClose.exe.config
+G:\repogitory\hm_jsmode_rock_or_sharedmemory_err_bug\src\bin\Release\HmWmClose.exe
+G:\repogitory\hm_jsmode_rock_or_sharedmemory_err_bug\src\obj\Release\HmWmClose.csproj.AssemblyReference.cache
+G:\repogitory\hm_jsmode_rock_or_sharedmemory_err_bug\src\obj\Release\HmWmClose.csproj.CoreCompileInputs.cache
+G:\repogitory\hm_jsmode_rock_or_sharedmemory_err_bug\src\obj\Release\HmWmClose.exe
